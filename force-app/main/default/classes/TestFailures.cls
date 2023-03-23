@@ -1,4 +1,4 @@
-public class TestFailures {
+public with sharing class TestFailures {
     
     public TestFailures() {
         System.debug('Somethign wrong with this calss');
